@@ -11,9 +11,9 @@
 
 - 🔭 I’m currently working on **counterfeit medicines detector**
 
-- 🌱 I’m currently learning **DevOps, Power BI, Full Stack Development (MERN) and Data Structures and Algorithms**
+- 🌱 I’m currently learning **DevOps, Power BI and Data Structures and Algorithms**
 
-- 👯 I’m looking to collaborate on **Full Stack / Data Analytics Projects**
+- 👯 I’m looking to collaborate on **Machine Learning / Data Analytics Projects**
 
 - 🤝 I’m looking for help with **Open-source contributions and advanced ML techniques**
 
