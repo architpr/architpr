@@ -17,13 +17,13 @@
 
 - 🤝 I’m looking for help with **Open-source contributions and advanced ML techniques**
 
-- 👨‍💻 All of my projects are available at [http://localhost:3001/#projects](http://localhost:3001/#projects)
+- 👨‍💻 All of my projects are available at [http://localhost:3001/#projects]()
 
 - 💬 Ask me about **Python, Data Analytics, AWS ,DevOpS**
 
 - 📫 How to reach me **architprasad24@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1rHdx41rGSsXJtJ2Oa9xE89YyMqFcr5H9/view?usp=sharing](https://drive.google.com/file/d/1rHdx41rGSsXJtJ2Oa9xE89YyMqFcr5H9/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1lctbK4xoWUUaswHkHbQIq3YBCipMVSmP/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
