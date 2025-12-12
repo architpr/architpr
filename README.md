@@ -17,7 +17,7 @@
 
 - 🤝 I’m looking for help with **Open-source contributions and advanced ML techniques**
 
-- 👨‍💻 All of my projects are available at [http://localhost:3001/#projects]()
+- 👨‍💻 All of my projects are available at [https://github.com/architpr]()
 
 - 💬 Ask me about **Python, Data Analytics, AWS ,DevOpS**
 
