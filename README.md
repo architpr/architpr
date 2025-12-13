@@ -1,38 +1,105 @@
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=20B2AA&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B,+I'm+Archit+Prasad;Frontend+Developer;ML+Enthusiast;DevOps+Learner" alt="Typing SVG" />
+</div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
+</div>
 
-<h1 align="center">Hi 👋, I'm Archit Prasad</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h2 align="center">🚀 About Me</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=architpr&label=Profile%20views&color=0e75b6&style=flat" alt="architpr" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=architpr" alt="architpr" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/@prasadarchit" target="blank"><img src="https://img.shields.io/twitter/follow/@prasadarchit?logo=twitter&style=for-the-badge" alt="@prasadarchit" /></a> </p>
-
-- 🔭 I’m currently working on **counterfeit medicines detector**
-
-- 🌱 I’m currently learning **DevOps, Power BI and Data Structures and Algorithms**
-
-- 👯 I’m looking to collaborate on **Machine Learning / Data Analytics Projects**
-
-- 🤝 I’m looking for help with **Open-source contributions and advanced ML techniques**
-
-- 👨‍💻 All of my projects are available at [https://github.com/architpr]()
-
-- 💬 Ask me about **Python, Data Analytics, AWS ,DevOpS**
-
-- 📫 How to reach me **architprasad24@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1lctbK4xoWUUaswHkHbQIq3YBCipMVSmP/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@prasadarchit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@prasadarchit" height="30" width="40" /></a>
+<p align="center">
+  I'm a passionate developer from India, currently diving deep into the world of <b>Machine Learning</b> and <b>DevOps</b>. <br/>
+  I love building impactful solutions, from counterfeit medicine detectors to advanced attendance systems.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> </p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=architpr&show_icons=true&locale=en" alt="architpr" /></p>
+<div align="center"> 
+  <a href="https://github.com/architpr">
+    <img src="https://github-readme-stats.vercel.app/api?username=architpr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="170" alt="architpr's GitHub stats" />
+  </a>
+  <a href="https://github.com/architpr">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=architpr&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="170" alt="architpr's Top Languages" />
+  </a>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=architpr&" alt="architpr" /></p>
+<br/>
+
+<div align="center"> 
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=architpr&theme=tokyonight&hide_border=true&background=00000000" alt="architpr's Badge" />
+</div>
+
+---
+
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,cpp,aws,docker,kubernetes,mysql,pytorch,opencv,git,githubactions,vscode&perline=11" />
+  </a>
+</div>
+
+<br/>
+
+<details>
+  <summary><b>View Detailed Tech Stack</b></summary>
+  <br/>
+  <ul>
+    <li><b>Languages</b>: Python, C++, SQL, HTML/CSS</li>
+    <li><b>AI/ML</b>: PyTorch, OpenCV, Dlib, Face Recognition</li>
+    <li><b>Cloud & DevOps</b>: AWS, Docker, Kubernetes</li>
+    <li><b>Tools</b>: VS Code, Git, Power BI</li>
+  </ul>
+</details>
+
+---
+
+<h2 align="center">🌱 Current Focus</h2>
+
+<table align="center" style="border: none;">
+  <tr>
+    <td width="50%" valign="top" style="border: none;">
+      <h3>🔭 Working On</h3>
+      <ul>
+        <li><b>Counterfeit Medicines Detector</b>: Leveraging ML to ensure pharmaceutical safety.</li>
+        <li><b>Cognito</b>: A facial recognition-based attendance system.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top" style="border: none;">
+      <h3>📚 Learning</h3>
+      <ul>
+        <li><b>DevOps</b>: CI/CD, Containerization, Orchestration.</li>
+        <li><b>DSA</b>: Strengthening core problem-solving skills.</li>
+        <li><b>Power BI</b>: Mastering data visualization.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+<h2 align="center">🤝 Connect With Me</h2>
+
+<div align="center">
+  <a href="mailto:architprasad24@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://linkedin.com/in/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/architpr">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+   <br/><br/>
+   <a href="https://drive.google.com/file/d/1lctbK4xoWUUaswHkHbQIq3YBCipMVSmP/view?usp=sharing">
+    <img src="https://img.shields.io/badge/View_Resume-FF5722?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=architpr&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</div>
